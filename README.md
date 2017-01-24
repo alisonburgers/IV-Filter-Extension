@@ -7,6 +7,7 @@ alisonburgers is not responsible for any damage or lost caused by the inaccuracy
 
 
 Download instructions: 
+
 1. Clone or download then extract the files from the repository. 
 
 2. Visit your Google Chrome "Extensions" under the "Tools" menu (or chrome://extensions/). 
