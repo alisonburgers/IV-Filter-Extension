@@ -1,16 +1,24 @@
 # IV Filter Extension
 A Chrome Extension package of IV filtering on londonpogomap.com
 
+
 Disclaimer: 
 alisonburgers is not responsible for any damage or lost caused by the inaccuracy of any information. 
 
+
 Download instructions: 
 1. Clone or download then extract the files from the repository. 
+
 2. Visit your Google Chrome "Extensions" under the "Tools" menu (or chrome://extensions/). 
+
 3. Make sure the "Developer mode" checkbox on the top right-hand corner is checked. 
+
 4. Click "Load unpacked extension…"" to pop up a file-selection dialog. 
+
 5. Select the extension files named "pack" to load the extension. 
+
 6. To filter Pokemon, click the extension icon once you are on the page, and click the "Filter" button on the pop-up. 
+
 
 Important notes: 
 - This extension has not been fully tested and debugged, especially on displaying Pokemon with 100% IVs. 
