@@ -1,5 +1,5 @@
 # IV Filter Extension
-A Chrome Extension package of IV filtering on londonpogomap.com
+A Chrome Extension package for IV filtering on londonpogomap.com
 
 
 Disclaimer: 
