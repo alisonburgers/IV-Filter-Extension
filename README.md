@@ -2,8 +2,12 @@
 A Chrome Extension package for IV filtering on londonpogomap.com
 
 
+Update: 
+Thanks to the amazing work from @DreaMin, the extension has seen huge improvement on accuracy and performance!
+
+
 Disclaimer: 
-alisonburgers is not responsible for any damage or lost caused by the inaccuracy of any information. 
+The creators are not responsible for any damage or lost caused by the inaccuracy of any information. 
 
 
 Download instructions: 
@@ -22,9 +26,6 @@ Download instructions:
 
 
 Important notes: 
-- This extension has not been fully tested and debugged, especially on displaying Pokemon with 100% IVs. 
-- This extension DOES NOT asychronously filter Pokemon. To update the filter, either click the filter button again (but only do so when new spawns are added) or refresh the page and filter again. 
 - If no Pokemon is showing/Pokemon displayed incorrectly/page not responding, refresh the page and filter again. 
 - Avoid selecting too many Pokemon on the filter to enhance performance. 
-- The default filter threshold is 82% or above. You can edit it by changing the variable "iv_filter" in content_script.js (value is inclusive). 
 - This extension only works for Google Chrome on desktop. 
