@@ -3,15 +3,21 @@
 
   "name": "IV filter for londonpogomap",
   "description": "This extension filters the IVs of Pokemon on londonpogomap.com",
-  "version": "2.0",
+  "version": "1.1",
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+
+  "web_accessible_resources": ["script.js"],
 
   "browser_action": {
-    "default_icon": "icon.png",
-    "default_popup": "popup.html"
+    "default_icon": "icon.png"
   },
 
   "permissions": [
     "activeTab",
-    "http://londonpogomap.com/"
+    "http://londonpogomap.com/*"
   ]
 }
