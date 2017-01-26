@@ -22,7 +22,9 @@ Download instructions:
 
 5. Select the extension files named "pack" to load the extension. 
 
-6. To filter Pokemon, click the extension icon once you are on the page, and click the "Filter" button on the pop-up. 
+6. To turn on the filter, click the extension icon once you are on the page. 
+
+7. You should see a IV filter option on the filter sidebar. 
 
 
 Important notes: 
