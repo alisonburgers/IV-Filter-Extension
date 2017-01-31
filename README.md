@@ -3,7 +3,7 @@ A Chrome Extension package for IV filtering on londonpogomap.com
 
 
 Update: 
-Thanks to the amazing work from @DreaMin, the extension has seen huge improvement on accuracy and performance!
+Thanks to the amazing work from @Dr333am, the extension has seen huge improvement on accuracy and performance!
 
 
 Disclaimer: 
@@ -28,6 +28,12 @@ Download instructions:
 
 
 Important notes: 
-- If no Pokemon is showing/Pokemon displayed incorrectly/page not responding, refresh the page and filter again. 
-- Avoid selecting too many Pokemon on the filter to enhance performance. 
+- If no Pokemon is showing/Pokemon displayed incorrectly/page not responding, try lowering the filter threshold or refreshing the page. 
+- Deselect all Pokemon on the filter bar before closing the page to avoid laggy loading in the next session. 
+- Avoid setting a low filter threshold and selecting too many Pokemon on the filter to enhance performance. 
 - This extension only works for Google Chrome on desktop. 
+
+
+Contact: 
+reddit: Dr333am, alisonburgers
+Discord: @DreaMin, @PsyduckEmpire
