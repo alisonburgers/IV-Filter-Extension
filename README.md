@@ -35,5 +35,7 @@ Important notes:
 
 
 Contact: 
+
 reddit: Dr333am, alisonburgers
+
 Discord: @DreaMin, @PsyduckEmpire
