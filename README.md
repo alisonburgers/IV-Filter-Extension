@@ -36,6 +36,6 @@ The creators are not responsible for any damage or lost caused by the inaccuracy
 
 ## Contact: 
 
-reddit: Dr333am, alisonburgers
+reddit: [Dr333am](https://www.reddit.com/user/Dr333am), [alisonburgers](https://www.reddit.com/user/alisonburgersm8)
 
 Discord: @DreaMin, @PsyduckEmpire
